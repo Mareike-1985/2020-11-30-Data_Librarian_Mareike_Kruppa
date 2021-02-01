@@ -2,24 +2,24 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 5,
    "metadata": {},
    "outputs": [],
    "source": [
     "inputfile= open ('./tag_security.xml','r')\n",
-    "outputfile=open('./bibsonomy.xml','w')\n",
-    "outputfile.write(\"<Publikationen>\\n\")\n",
+    "outputfile=open('./bibsonomy_to_solr.json','w')\n",
+    "outputfile.write(\"[\\n\")\n",
     "outputfile.close()\n",
-    "outputfile=open('./bibsonomy.xml','a')"
+    "outputfile=open('./bibsonomy_to_solr.json','a')"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 6,
    "metadata": {},
    "outputs": [],
    "source": [
-    "    for newline in inputfile:\n",
+    "for newline in inputfile:\n",
     "        # newline = inputfile.readline()\n",
     "        #print(newline)\n",
     "        printer=0\n",
@@ -48,12 +48,12 @@
     "        if newline.find(\"<b:Publisher>\") != -1:\n",
     "            Herausgeber = newline [newline.find(\"<b:Publisher>\")+13:newline.rfind(\"</b:Publisher>\")]\n",
     "        if printer>=0:\n",
-    "            outputfile.write(\"<Publikation><id>\"+ISBN+\"</id><Autor>\"+Autoren+\"</Autor><Editoren>\"+Editoren+\"</Editoren><Titel>\"+Titel+\"</Titel><Herausgeber>\"+Herausgeber+\"</Herausgeber><Jahr>\"+Jahr+\"</Jahr><Quelle>\"+Quelle+\"</quelle></Publikation>\\n\")"
+    "            outputfile.write(\"{\\n\"'\"id\" : \"'+ISBN+'\",\\n''\"author\" : \"'+Autoren+'\",\\n''\"editors\" : \"'+Editoren+'\",\\n''\"title\" : \"'+Titel+'\",\\n''\"publisher\" : \"'+Herausgeber+'\",\\n''\"year\" : '+Jahr+'\",\\n''\"type\" : \"'+Quelle+'\",\\n'\"}\\n\")"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 7,
    "metadata": {},
    "outputs": [],
    "source": [
