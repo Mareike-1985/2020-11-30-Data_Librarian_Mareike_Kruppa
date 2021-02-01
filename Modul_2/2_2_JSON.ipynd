@@ -48,7 +48,7 @@
     "        if newline.find(\"<b:Publisher>\") != -1:\n",
     "            Herausgeber = newline [newline.find(\"<b:Publisher>\")+13:newline.rfind(\"</b:Publisher>\")]\n",
     "        if printer>=0:\n",
-    "            outputfile.write(\"{\\n\"'\"id\" : \"'+ISBN+'\",\\n''\"author\" : \"'+Autoren+'\",\\n''\"editors\" : \"'+Editoren+'\",\\n''\"title\" : \"'+Titel+'\",\\n''\"publisher\" : \"'+Herausgeber+'\",\\n''\"year\" : '+Jahr+'\",\\n''\"type\" : \"'+Quelle+'\",\\n'\"}\\n\")"
+    "            outputfile.write(\"{\\n\"'\"id\" : \"'+ISBN+'\",\\n''\"author\" : \"'+Autoren+'\",\\n''\"editors\" : \"'+Editoren+'\",\\n''\"title\" : \"'+Titel+'\",\\n''\"publisher\" : \"'+Herausgeber+'\",\\n''\"year\" : "'+Jahr+'\",\\n''\"type\" : \"'+Quelle+'\",\\n'\"}\\n\")"
    ]
   },
   {
