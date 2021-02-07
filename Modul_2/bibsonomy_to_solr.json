@@ -1,6 +1,6 @@
 [
 {
-"id" : " ISBN: 978-1-4503-5970-2",
+"id" : "ISBN: 978-1-4503-5970-2",
 "author" : "Alena A. Naiakshina,Anastasia A. Danilova,Eva A. Gerlitz,Emanuel A. von Zezschwitz,Matthew A. Smith,Stephen A. Brewster,Geraldine L. Fitzpatrick,Anna L. Cox,Vassilis Kostako",
 "editors" : "Stephen A. Brewster,Geraldine L. Fitzpatrick,Anna L. Cox,Vassilis Kostako",
 "title" : "If you want, I can store the encrypted password: A Password-Storage Field Study with Freelance Developers.",
@@ -9,16 +9,7 @@
 "type" : "ConferenceProceedings"
 },
 {
-"id" : "",
-"author" : "Adam Ellen Shostack,Matthew Ellen Smith,Sam Ellen Weber,Mary Ellen Zurk",
-"editors" : "",
-"title" : "Empirical Evaluation of Secure Development Processes (Dagstuhl Seminar 19231).",
-"publisher" : "",
-"year" : "2019",
-"type" : "JournalArticle"
-},
-{
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Karthik M",
 "editors" : "",
 "title" : "",
@@ -27,7 +18,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Afrin Hussai",
 "editors" : "",
 "title" : "",
@@ -36,7 +27,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Bhavya Verma | Purva Choudhary | Dr. Deepak Chaha",
 "editors" : "",
 "title" : "",
@@ -45,7 +36,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Praveen Mourya | Prof. Avinash Sharm",
 "editors" : "",
 "title" : "",
@@ -54,7 +45,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Mr. Shubham Rankhambe | Prof. Shambhu Ra",
 "editors" : "",
 "title" : "",
@@ -63,7 +54,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Siddiqui Sana Afree",
 "editors" : "",
 "title" : "",
@@ -72,7 +63,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Sayali Vishwanath Pawa",
 "editors" : "",
 "title" : "",
@@ -81,7 +72,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Matthew N. O. Sadiku | Sunday S. Adekunte | Sarhan M. Mus",
 "editors" : "",
 "title" : "",
@@ -90,7 +81,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Syed Meharanjunis",
 "editors" : "",
 "title" : "",
@@ -99,7 +90,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Shweta Nai",
 "editors" : "",
 "title" : "",
@@ -108,7 +99,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "K. Dhanusree | S. Karunya | R. Sneh",
 "editors" : "",
 "title" : "",
@@ -117,7 +108,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Vikas Kumar | Ms. Deepali Shahan",
 "editors" : "",
 "title" : "",
@@ -126,7 +117,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Aleena Sabrin | Ajmal Ali | Sarath Krishnan T | Dr. Noha La",
 "editors" : "",
 "title" : "",
@@ -135,7 +126,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Vijay Kumar Kalakar | Hirdesh Chack | Syed Tariq Al",
 "editors" : "",
 "title" : "",
@@ -144,7 +135,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Er. Komalpret Kaur | Rajwinder Kaur | Arpan Chada",
 "editors" : "",
 "title" : "",
@@ -153,7 +144,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Chidozie Ezeozu",
 "editors" : "",
 "title" : "",
@@ -162,7 +153,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Lubna Alazzawi | Jamal Alotaib",
 "editors" : "",
 "title" : "",
@@ -171,7 +162,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "V. Booma | G. Gayathr",
 "editors" : "",
 "title" : "",
@@ -180,7 +171,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "N. Sathiyanathan | Selvakumar. S | P. Selvaprasant",
 "editors" : "",
 "title" : "",
@@ -189,7 +180,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Shivmalhar Bhise | Anushri Wali | Payal Pingale | Rohit Gupta | Dr. Brijendra Gupt",
 "editors" : "",
 "title" : "",
@@ -198,7 +189,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Nikhil Sreenivasa",
 "editors" : "",
 "title" : "",
@@ -207,7 +198,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Danial Kafi Ahmad | Zul Hilmi Abdullah | Siti Nuraini Ahma",
 "editors" : "",
 "title" : "",
@@ -216,7 +207,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Dr. C. Umarani | R P Shrut",
 "editors" : "",
 "title" : "",
@@ -225,7 +216,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: ISSN 0974 - 9322 (Online); 0975 - 2293 (Print) DOI: 10.5121/ijcnc.2020.12608",
+"id" : "ISSN: ISSN 0974 - 9322 (Online); 0975 - 2293 (Print) DOI: 10.5121/ijcnc.2020.12608",
 "author" : "Tran Hoang Hai,Le Huy Hoang,Eui-nam Hu",
 "editors" : "",
 "title" : "",
@@ -234,7 +225,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Reshma Sunil Mandlik | Charulata Rajesh Pawa",
 "editors" : "",
 "title" : "",
@@ -243,7 +234,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Diksha Chhonkar | Garima Pande",
 "editors" : "",
 "title" : "",
@@ -252,7 +243,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "C. A | Usiade}, R. E {Nwabuez",
 "editors" : "",
 "title" : "",
@@ -261,7 +252,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Tridib Mondal | Praveen Kumar Pande",
 "editors" : "",
 "title" : "",
@@ -270,7 +261,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Upasana Bora",
 "editors" : "",
 "title" : "",
@@ -279,7 +270,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Mukhtarov Otabek Shukhratjanovic",
 "editors" : "",
 "title" : "",
@@ -288,7 +279,7 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 2456-6470",
+"id" : "ISSN: 2456-6470",
 "author" : "Ahmad S. Abdullahi | Zaitun Sunusi Bakab",
 "editors" : "",
 "title" : "",
@@ -297,21 +288,11 @@
 "type" : ""
 },
 {
-"id" : " ISSN: 0976 - 9811 (Online); 2230 - 7702 (print) DOI: 10.5121/ijwsc.2010.1203",
-"author" : "Thanigaivel. Thirumaran.M,Thanigaivel. Dhavachelvan.P,Thanigaivel. Abarna.S,Thanigaivel. ",
+"id" : "ISSN: 0976 - 9811 (Online); 2230 - 7702 (print) DOI: 10.5121/ijwsc.2010.1203",
+"author" : "Thanigaivel. Thirumaran.M,Thanigaivel. Dhavachelvan.P,Thanigaivel. Abarna.S,Thanigaivel.",
 "editors" : "",
 "title" : "",
 "publisher" : "",
 "year" : "2010",
 "type" : ""
-},
-{
-"id" : "",
-"author" : "",
-"editors" : "",
-"title" : "",
-"publisher" : "",
-"year" : "",
-"type" : ""
-}
-]
+}]
